@@ -14,4 +14,4 @@ console.log(findBcaIndex); // 0
 console.log(findCsitIndex); // 3
 
 // As a result I am getting the index 0 for BCA return the first elements index
-// As a result I am getting the index 3 for BCA return the first elements index
+// As a result I am getting the index 3 for CSIT
