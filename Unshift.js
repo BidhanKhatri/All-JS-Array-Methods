@@ -3,7 +3,7 @@
 
 const landsPrice = [1000, 2000, 3000, 4000, 5000];
 
-console.log("landPrice load length = ", landsPrice.length);
+console.log("landPrice old length = ", landsPrice.length);
 console.log("old array", landsPrice); // [1000, 2000, 3000, 4000, 5000]
 
 const addNewLandPrice = landsPrice.unshift(6000); // 6000 if consoled
