@@ -4,7 +4,7 @@
 // difference between includes() and some() is that
 // includes() contains a value and some() contains a callback function
 
-// Syntax: 
+// Syntax:
 // array.includes(element);
 // array.includes(element, startIndex);
 
