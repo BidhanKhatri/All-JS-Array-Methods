@@ -12,3 +12,4 @@ console.log(array); // ["Ram", "Ram", "Ram"]
 
 // As a result the original array is modified
 // also fill() return the modified array
+// also we have the ability to fill the elements by startIndex and endIndex
